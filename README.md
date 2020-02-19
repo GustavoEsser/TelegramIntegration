@@ -14,7 +14,7 @@ Add parametros no zabbix
 Step 3 
 Rodar Scripts
 
-Get Start
+Get Start for linux
 
 cd /usr/local/share/zabbix/alertscripts/
 
