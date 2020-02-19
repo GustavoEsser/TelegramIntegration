@@ -11,6 +11,9 @@ Criar o bot no telegram
 Step 2 
 Add parametros no zabbix
 
+Step 3 
+Rodar Scripts
+
 Get Start
 
 cd /usr/local/share/zabbix/alertscripts/
